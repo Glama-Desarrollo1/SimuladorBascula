@@ -54,15 +54,3 @@ Sigue las reglas de estilo definidas en `.editorconfig` y las guías en `CONTRIB
 1. Crea un fork y una rama descriptiva: `feature/descripcion-corta` o `fix/descripcion-corta`.
 2. Sigue el estándar de commits del repositorio (mensajes claros y concisos).
 3. Abre un pull request describiendo los cambios y las pruebas realizadas.
-
-## Pruebas
-
-- Actualmente no hay pruebas automatizadas incluidas. Añade pruebas unitarias si extiendes la lógica del simulador.
-
-## Licencia
-
-Si el repositorio no especifica otra cosa, se recomienda usar una licencia permisiva como `MIT`. Añade el archivo `LICENSE` correspondiente si decides publicarlo con licencia.
-
----
-
-¿Quieres que cree el archivo `README.md` en el repositorio y haga un commit con este contenido? Si prefieres, puedo adaptar el tono (más técnico o más amigable) o añadir secciones adicionales (ejemplos de salida, badges, o instrucciones de empaquetado).
